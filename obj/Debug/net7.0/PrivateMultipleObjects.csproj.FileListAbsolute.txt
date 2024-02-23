@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/PrivateMultipleObjects/bin/Debug/net7.0/PrivateMultipleObjects
+/Users/tylerbreithaupt/Desktop/CIT195/PrivateMultipleObjects/bin/Debug/net7.0/PrivateMultipleObjects.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/PrivateMultipleObjects/bin/Debug/net7.0/PrivateMultipleObjects.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/PrivateMultipleObjects/bin/Debug/net7.0/PrivateMultipleObjects.dll
+/Users/tylerbreithaupt/Desktop/CIT195/PrivateMultipleObjects/bin/Debug/net7.0/PrivateMultipleObjects.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/PrivateMultipleObjects/obj/Debug/net7.0/PrivateMultipleObjects.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/PrivateMultipleObjects/obj/Debug/net7.0/PrivateMultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/PrivateMultipleObjects/obj/Debug/net7.0/PrivateMultipleObjects.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/PrivateMultipleObjects/obj/Debug/net7.0/PrivateMultipleObjects.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/PrivateMultipleObjects/obj/Debug/net7.0/PrivateMultipleObjects.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/PrivateMultipleObjects/obj/Debug/net7.0/PrivateMultipleObjects.dll
+/Users/tylerbreithaupt/Desktop/CIT195/PrivateMultipleObjects/obj/Debug/net7.0/refint/PrivateMultipleObjects.dll
+/Users/tylerbreithaupt/Desktop/CIT195/PrivateMultipleObjects/obj/Debug/net7.0/PrivateMultipleObjects.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/PrivateMultipleObjects/obj/Debug/net7.0/PrivateMultipleObjects.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/PrivateMultipleObjects/obj/Debug/net7.0/ref/PrivateMultipleObjects.dll
